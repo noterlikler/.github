@@ -1,3 +1,5 @@
+![NOTERLİKLER — noterlik rehberi, nöbetçi noter listeleri ve Laravel tabanlı uygulamalar](https://raw.githubusercontent.com/noterlikler/.github/main/profile/noterlikler-github-kapak.png)
+
 <div align="center">
 
 # NOTERLİKLER
@@ -24,7 +26,7 @@ Projeyi, noterlik bilgilerine ulaşmayı ve işlem öncesi hazırlığı kolayla
 | --- | --- |
 | Noterlik araması | İl, ilçe veya noterlik adıyla arama ve sonuç önerileri |
 | Noter detayları | Adres, telefon, çalışma saatleri, harita ve yol tarifi |
-| Tarihli nöbet listeleri | Yayınlanan nöbet tarihine, ile ve ilçeye göre sorgulama |
+| Tarihli nöbet listeleri | Yayınlanan nöbet tarihine göre il ve ilçe sorgulaması |
 | Hafta sonu sayfaları | Cumartesi ve pazar günü nöbetçi noter listeleri |
 | İşlem rehberleri | Araç satışı, vekâletname, tercüme, apostil ve diğer başvurulara hazırlık |
 | Mobil kullanım | Mobil ve masaüstü ekranlara uyumlu web arayüzü ve PWA |
@@ -67,13 +69,40 @@ Noterlik bilgilerine farklı tarayıcılardan ve web sitelerinden ulaşabilirsin
 
 Tüm seçenekleri [uygulamalar ve eklentiler sayfasında](https://noterlikler.com.tr/uygulamalar-ve-eklentiler) bir arada bulabilirsiniz.
 
-## Blogdan seçilen rehberler
+## Noterlik işlem rehberleri
+
+İşlem öncesi hazırlık, belge türleri ve çalışma düzeni hakkında hazırladığım tüm blog rehberleri:
+
+### Vekâletname
+
+- [Vekâletname nasıl verilir?](https://noterlikler.com.tr/blog/vekaletname-nasil-verilir)
+- [Vekâletname kaç yıl geçerli?](https://noterlikler.com.tr/blog/vekaletname-gecerlilik-suresi)
+- [Vekâletname nasıl iptal edilir?](https://noterlikler.com.tr/blog/vekaletname-nasil-iptal-edilir)
+- [e-Devlet’ten vekâletname sorgulama](https://noterlikler.com.tr/blog/e-devlet-vekaletname-sorgulama)
+- [2026 noter vekâlet ücreti](https://noterlikler.com.tr/blog/noter-vekalet-ucreti-2026)
+
+### Araç satışı ve noter ücretleri
 
 - [Noterde araç satışı nasıl yapılır?](https://noterlikler.com.tr/blog/noterde-arac-satisi)
-- [Vekâletname nasıl verilir?](https://noterlikler.com.tr/blog/vekaletname-nasil-verilir)
 - [Noter ücreti nasıl hesaplanır?](https://noterlikler.com.tr/blog/noter-ucreti-hesaplama)
+
+### Tercüme ve apostil
+
+- [Noter onaylı tercüme nasıl yaptırılır?](https://noterlikler.com.tr/blog/noter-onayli-tercume)
 - [Apostil nedir, nereden alınır?](https://noterlikler.com.tr/blog/apostil-nedir-nereden-alinir)
+
+### Çalışma saatleri ve tatiller
+
 - [Noter çalışma saatleri](https://noterlikler.com.tr/blog/noter-calisma-saatleri)
+- [Hafta sonu noter açık mı?](https://noterlikler.com.tr/blog/hafta-sonu-noter-acik-mi)
+- [28–29 Ekim 2026 noter çalışma düzeni](https://noterlikler.com.tr/blog/28-29-ekim-2026-noterler-acik-mi)
+
+### Diğer başvurular ve noterlik mesleği
+
+- [Muvafakatname nedir?](https://noterlikler.com.tr/blog/muvafakatname-nedir)
+- [Veraset ilamı nasıl alınır?](https://noterlikler.com.tr/blog/veraset-ilami-nasil-alinir)
+- [Noterden ihtarname nasıl gönderilir?](https://noterlikler.com.tr/blog/noterden-ihtarname-nasil-gonderilir)
+- [Nasıl noter olunur?](https://noterlikler.com.tr/blog/noter-nasil-olunur)
 
 ## Geliştiren
 
